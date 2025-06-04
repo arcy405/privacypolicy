@@ -1,84 +1,54 @@
-Privacy Policy
- [Your App Name]
- Effective Date: June 3, 2025
+Privacy Policy for Digital Palika
+Effective Date: June 4, 2025
 
 1. Introduction
-Welcome to Digital Palika (“we”, “our”, “us”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and website.
-We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy or our practices regarding your personal information, please contact us at aifobeeta@gmail.com.
+Welcome to Digital Palika ("we", "our", or "us"). This Privacy Policy describes how we handle information when you use our mobile application.
+
+We are committed to transparency and user privacy. Digital Palika is not affiliated with any government agency, and all information provided is for general public access only.
 
 2. Information We Collect
-We may collect non-personal and limited personal information from you in the following ways:
-a. Information You Provide to Us:
-Contact forms or feedback submissions (e.g., name, email).
+We do not collect any personally identifiable information from users.
+However, the app may access the following optional, user-permitted data:
 
+Location (Approximate or Precise): Only if the user grants permission, location data is used to show local tourism points or update user profiles.
 
-Complaint forms or user-submitted content.
+Device Information: Basic, non-identifiable data like OS version or app version may be used to improve performance or diagnose issues.
 
+3. How We Use Your Information
+Any information accessed (like location) is used only locally on your device or to:
 
-b. Automatically Collected Information:
-Device details (type, OS version, browser).
+Personalize local content like notices or tourism information.
 
+Support location-based services (if you allow it).
 
-Usage data (pages visited, features used).
+We do not use analytics tools or trackers. We do not sell or share any data.
 
+4. Data Sharing
+We do not share or sell user data to any third party.
+No government agency receives or processes your personal data through this app.
 
-Anonymous analytics via tools like Google Analytics (if used).
+5. Data Security
+We take reasonable precautions to protect any information handled by the app. However, as no digital transmission is fully secure, we recommend keeping your device up to date and using secure connections.
 
+6. Children’s Privacy
+The app is not designed for children under 13. We do not knowingly collect any data from children.
 
-We do not collect sensitive personal information such as passwords, financial details, or precise geolocation.
+7. Your Control
+You may:
 
-3. Use of Information
-We may use the collected information to:
-Operate and maintain the app and related services.
+Revoke location permissions anytime from your device settings.
 
+Uninstall the app if you do not wish to use its services.
 
-Respond to inquiries, complaints, or support requests.
+8. Updates to This Policy
+We may update this policy from time to time. Any changes will be posted in the app and/or on our website with a revised "Effective Date".
 
+9. Contact Us
+If you have any questions about this Privacy Policy, please contact:
 
-Improve the app’s functionality, security, and performance.
+📧 Email: aifobeeta@gmail.com
+🌐 Website: https://aifobeta.com
 
-
-Analyze user engagement and optimize user experience.
-
-
-
-4. Sharing of Information
-We do not sell or share your personal information with third parties for marketing purposes. We may share information only:
-With service providers (e.g., hosting or analytics) who assist us in operating our services.
-
-
-To comply with legal obligations or protect rights and safety.
-
-
-All shared data is protected by strict confidentiality agreements.
-
-5. Data Retention
-We retain your data only as long as necessary to fulfill the purposes described in this policy, unless a longer retention period is required by law.
-
-6. Data Security
-We take appropriate technical and organizational measures to protect your data. However, please note that no method of transmission over the Internet or method of electronic storage is 100% secure.
-
-7. Children’s Privacy
-Our services are not directed to children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us immediately and we will take appropriate steps to delete such data.
-
-8. Your Privacy Rights
-You have the right to:
-Access the personal data we hold about you.
-
-
-Request corrections or deletions.
-
-
-Withdraw your consent at any time, where applicable.
-
-
-To exercise any of these rights, please contact us at aifobeeta@gmail.com.
-
-9. Changes to This Policy
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Effective Date". Continued use of the app indicates acceptance of the updated policy.
-
-10. Contact Us
-If you have questions or concerns regarding this Privacy Policy, please contact:
-Email: aifobeeta@gmail.com
- Website: https://aifobeta.com/
+⚠️ Disclaimer
+Digital Palika is a community-driven platform and does not represent or act on behalf of any official government body. All information is provided for public awareness and convenience.
 
